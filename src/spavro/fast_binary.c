@@ -3,11 +3,11 @@
 /* BEGIN: Cython Metadata
 {
     "distutils": {
-        "name": "spavro.fast_binary", 
+        "name": "spavro.fast_binary",
         "sources": [
             "src/spavro/fast_binary.pyx"
         ]
-    }, 
+    },
     "module_name": "spavro.fast_binary"
 }
 END: Cython Metadata */
